@@ -11,7 +11,7 @@
 
 
 # INSTALLATION [ TERMUX APP --ANDROID ]
-.pkg i git
+* pkg install git
 * git clone https://github.com/youhacker55/SMSFlooder/
 * cd SMSFlooder
 * bash termux.sh
