@@ -1,10 +1,8 @@
 if ! which python > /dev/null; then
-   echo -e "pythn not found! Install? (y/n) \c"
-   read
-   if "$REPLY" = "y"; then
-       pkg  install python
-       python3 install.py
-   fi
+   echo -e "pythn not found! Installing"
+   pkg  install python
+   python3 install.py
+   
 else
    python3 install.py
 fi
