@@ -7,8 +7,7 @@
 <a href="https://www.facebook.com/achihemek.achihemek/"><img title="GitHub version" src="https://img.shields.io/badge/-Facebook-blue" ></a> 
 </p>
 
-# ScreenShot
-![Screenshot from 2020-06-15 09-36-52]()
+
 
 
 # INSTALLATION [ TERMUX APP --ANDROID ]
@@ -25,7 +24,7 @@
 * Termux
 # HOW TO USE
 * you can see the help menu by typing python3 youssef.py -h
-* ('python3 youssef.py --flood SMS --target ($phonenum without +) --threads (how much threads to send) --timeout ($timeout)')
+* python3 youssef.py --flood SMS --target ($phonenum without +) --threads (how much threads to send) --timeout ($timeout)
 
 
 
