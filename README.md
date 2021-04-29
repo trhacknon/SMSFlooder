@@ -1,5 +1,9 @@
 # SMSFlooder
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyouhacker55%2FSMSFlooder%2F&count_bg=%2379C83D&title_bg=%23555555&icon=debian.svg&icon_color=%23E7E7E7&title=Views&edge_flat=true)](https://hits.seeyoufarm.com)
+[![Forks][forks-shield]][forks-url]
+[![Issues][issues-shield]][issues-url]
+[![Stargazers][stars-shield]][stars-url]
+
 <p align="center">
   <img src="https://github.com/youhacker55/SMSFlooder/blob/main/Screenshots/smsflood.png">
 </p>
