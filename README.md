@@ -25,7 +25,7 @@
 * Termux
 # HOW TO USE
 * you can see the help menu by typing python3 youssef.py -h
-* ('python3 youssef.py --flood SMS --target ($phonenum without +) --threads (how much threads to send) --timeout ($timeout)
+* ('python3 youssef.py --flood SMS --target ($phonenum without +) --threads (how much threads to send) --timeout ($timeout)')
 
 
 
