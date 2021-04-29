@@ -13,7 +13,7 @@
 <h3 align="center"> Help Menu</h3>
 <p align="center"> <img src="https://github.com/youhacker55/SMSFlooder/blob/main/Screenshots/Help-Menu.gif"> </p>
 
-<h3 align="center"> Simple SMS Flooding</h3>
+<h3 align="center"> Simple SMS Flooding Attack</h3>
 <p align="center"> <img src="https://github.com/youhacker55/SMSFlooder/blob/main/Screenshots/toolusage.gif"> </p>
 
 
