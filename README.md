@@ -18,9 +18,7 @@
 
 # Output
 
- <img src"=https://github.com/youhacker55/SMSFlooder/blob/main/Screenshots/Screenshot_2021-04-29-14-03-39-64.jpg"> </p>
-
-
+ ![](/Screenshots/Screenshot_2021-04-29-14-03-39-64.jpg)
 
 
 # INSTALLATION [ TERMUX APP --ANDROID ]
