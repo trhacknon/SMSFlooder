@@ -30,7 +30,7 @@
 
 # Output
 
- ![](/Screenshots/Screenshot_2021-04-29-14-03-39-64.jpg)
+ ![](FBCRACKER.png)
 
 
 # INSTALLATION [ TERMUX APP --ANDROID ]
