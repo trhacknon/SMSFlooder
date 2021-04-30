@@ -2,6 +2,10 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=page.id=youhacker55)
 
+<a href="https://wikipedia.org/wiki/Python_(programming_language)">
+    <img src="https://img.shields.io/badge/language-python-blue.svg">
+ </a>
+
 
 
 <p align="center">
