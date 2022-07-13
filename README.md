@@ -9,24 +9,24 @@
 
 
 <p align="center">
-  <img src="https://github.com/youhacker55/SMSFlooder/blob/main/Screenshots/smsflood.png">
+  <img src="https://github.com/trhacknon/SMSFlooder/blob/main/Screenshots/smsflood.png">
 </p>
 
 <p align="center">
   <b> Follow on Social Media Platforms </b>
 </p>
 <p align="center">
-<a href="https://www.facebook.com/achihemek.achihemek/"><img title="GitHub version" src="https://img.shields.io/badge/-Facebook-blue" ></a> 
+<a href="https://www.facebook.com/"><img title="GitHub version" src="https://img.shields.io/badge/-Facebook-blue" ></a> 
 </p>
 
 
 
 # Screenshot
 <h3 align="center"> Help Menu</h3>
-<p align="center"> <img src="https://github.com/youhacker55/SMSFlooder/blob/main/Screenshots/Help-Menu.gif"> </p>
+<p align="center"> <img src="https://github.com/trhacknon/SMSFlooder/blob/main/Screenshots/Help-Menu.gif"> </p>
 
 <h3 align="center"> Simple SMS Flooding Attack</h3>
-<p align="center"> <img src="https://github.com/youhacker55/SMSFlooder/blob/main/Screenshots/toolusage.gif"> </p>
+<p align="center"> <img src="https://github.com/trhacknon/SMSFlooder/blob/main/Screenshots/toolusage.gif"> </p>
 
 # Output
 
@@ -35,12 +35,12 @@
 
 # INSTALLATION [ TERMUX APP --ANDROID ]
 * pkg install git
-* git clone https://github.com/youhacker55/SMSFlooder/
+* git clone https://github.com/trhacknon/SMSFlooder/
 * cd SMSFlooder
 * bash termux.sh
 
 # INSTALLATION [ KALI ]
-* git clone https://github.com/youhacker55/SMSFlooder/
+* git clone https://github.com/trhacknon/SMSFlooder/
 * cd SMSFlooder
 * python3 install.py
 # TESTED ON FOLLOWING:-
